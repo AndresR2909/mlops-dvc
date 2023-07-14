@@ -3,4 +3,3 @@
 ['remote "dvc-remote"']
     url = azure://andres-restrepo-dvc/
     account_name = saanaliticaformaciondev
-    connection_string = DefaultEndpointsProtocol=https;AccountName=saanaliticaformaciondev;AccountKey=o9VtepMuUSVQJTHfDJe8/GbBjTKBLCvTvNO00O7/pC0p5PAfPORk3dDQTtiR5K43esmRVPdh4BTF+AStczoKDA==;EndpointSuffix=core.windows.net
